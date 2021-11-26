@@ -9,7 +9,7 @@
 		#Render vampire eye/fang face overlay
 		vampireEyes = true
 		#Render fog in vampire biome. Might be enforced server side
-		vampireForestFog = true
+		vampireForestFog = false
 		#Render screen overlay. Don't disable
 		screenOverlay = true
 
