@@ -2,7 +2,7 @@
 #Common configuration settings. Most other configuration can be found in the world (server)configuration folder
 [common]
 	#Check for new versions of Vampirism on startup
-	versionCheck = true
+	versionCheck = false
 	#Send mod version, MC version and mod count to mod author
 	collectStats = true
 	#Use the vanilla campfire block instead of Vampirism's much cooler one
@@ -25,9 +25,9 @@
 	#Whether glass bottles should be automatically be converted to blood bottles when needed
 	autoConvertGlassBottles = true
 	#If enabled adds a craftable umbrella that can be used to slowly walk though sunlight without taking damage
-	umbrella = false
+	umbrella = true
 	#Enforce tent generation in any overworld world, even if they were not included in modded or datapack world-types on purpose. Does not affect Server#disableTentGeneration or disable tent generation itself.
-	enforceOverworldTentGeneration = true
+	enforceOverworldTentGeneration = false
 
 	[common-server.mobspawn]
 		#Vampire spawn chance/weight (e.g. Zombie: 100). Does not affect vampire forest.
@@ -38,7 +38,7 @@
 		advancedVampireSpawnChance = 26
 		#Hunter spawn chance. By default they only spawn in tent camps, but you can enable global spawn here.
 		#Range: 0 ~ 10000
-		hunterSpawnChance = 0
+		hunterSpawnChance = 75
 		#Advanced hunter spawn chance. By default they only spawn in large tent camps, but you can enable global spawn here.
 		#Range: 0 ~ 100000
 		advancedHunterSpawnChance = 0
@@ -56,7 +56,7 @@
 		#Range: 1 ~ 4096
 		hunterTentSeparation = 4
 		#Control hunter camp generation. If disabled you should set hunterSpawnChance to 75.
-		enableHunterTentGeneration = true
+		enableHunterTentGeneration = false
 
 		#You might find some configuration values in the common section instead of here
 		[common-server.world.village]
