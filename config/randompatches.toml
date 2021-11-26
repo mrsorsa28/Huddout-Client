@@ -103,7 +103,7 @@
 		#  - ${username}: The username.
 		# '$' can be escaped by using an extra '$'.
 		# Default: "Minecraft ${mcversion}"
-		simple_title = "Minecraft ${mcversion}"
+		simple_title = "Huddout Ressurrection's ${mcversion} - ${username}"
 		# The Minecraft window title.
 		# The current activity is not available.
 		# Variables:
@@ -113,7 +113,7 @@
 		#  - ${modversion:modid}: The version of the mod with the specified ID.
 		# '$' can be escaped by using an extra '$'.
 		# Default: "Minecraft ${mcversion}"
-		title = "Minecraft ${mcversion}"
+		title = "Huddout Ressurrection's ${mcversion} - ${username}"
 		# The Minecraft window title that also takes into account the current activity.
 		# Variables:
 		#  - ${mcversion}: The Minecraft version
@@ -123,10 +123,10 @@
 		#  - ${modversion:modid}: The version of the mod with the specified ID.
 		# '$' can be escaped by using an extra '$'.
 		# Default: "Minecraft ${mcversion} - ${activity}"
-		title_with_activity = "Minecraft ${mcversion} - ${activity}"
+		title_with_activity = "Huddout Ressurrection's ${mcversion} - ${username} - ${activity}"
 		# Enables custom Minecraft window icons.
 		# Default: true
-		custom_icon = true
+		custom_icon = false
 		# The path to the 16x16 Minecraft window icon relative to the Minecraft instance directory.
 		# Forward slashes should be used even on Windows to preserve compatibility with other platforms.
 		# Backward slashes will automatically be replaced.
@@ -149,7 +149,7 @@
 	# Min: 1
 	# Max: 2147483647
 	# Default: 120
-	read_timeout_seconds = 120
+	read_timeout_seconds = 180
 	# The login timeout in ticks.
 	# Min: 1
 	# Max: 2147483647
