@@ -27,7 +27,7 @@
 		"Max Difficulty" = 24
 		#How much difficulty will players start with when joining a world? Note that this will apply when the first Wither is spawned so if the player has already spawned one this will not apply.
 		#Range: > 0
-		"Starting Difficulty" = 0
+		"Starting Difficulty" = 3
 		#Entities that extend the vanilla Wither but shouldn't be taken into account by the mod (e.g. Botania's Pink Wither).
 		"Entity Blacklist" = ["botania:pink_wither"]
 
