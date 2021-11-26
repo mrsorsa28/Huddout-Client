@@ -137,7 +137,7 @@
 	#Disable the Apple pet (default:false)
 	disableApple = false
 	#Disable the April Fool pet (default:false)
-	disableAprilFool = false
+	disableAprilFool = true
 	#Disable the Banana pet (default:false)
 	disableBanana = false
 	#Disable the Bed pet (default:false)
@@ -145,7 +145,7 @@
 	#Disable the Biome pet (default:false)
 	disableBiome = false
 	#Disable the Black Hole pet (default:false)
-	disableBlackHole = false
+	disableBlackHole = true
 	#Disable the (default:false)
 	disableBlaze = false
 	#Disable the (default:false)
@@ -181,23 +181,23 @@
 	#Disable the Enderman pet (default:false)
 	disableEnderman = false
 	#Disable the Flying Saddle pet (default:false)
-	disableFlyingSaddle = false
+	disableFlyingSaddle = true
 	#Disable the Furnace pet (default:false)
 	disableFurnace = false
 	#Disable the Ghast pet (default:false)
 	disableGhast = false
 	#Disable the Grave pet (default:false)
-	disableGrave = false
+	disableGrave = true
 	#Disable the Heart pet (default:false)
 	disableHeart = false
 	#Disable the House pet (default:false)
 	disableHouse = false
 	#Disable the Illuminati pet (default:false)
-	disableIlluminati = false
+	disableIlluminati = true
 	#Disable the Iron Golem pet (default:false)
 	disableIronGolem = false
 	#Disable the Juggernaut pet (default:false)
-	disableJuggernaut = false
+	disableJuggernaut = true
 	#Disable the Jukebox pet (default:false)
 	disableJukebox = false
 	#Disable the Lead pet (default:false)
@@ -209,13 +209,13 @@
 	#Disable the Menorah pet (default:false)
 	disableMenorah = false
 	#Disable the Meta pet (default:false)
-	disableMeta = false
+	disableMeta = true
 	#Disable the Mickerson pet (default:false)
-	disableMickerson = false
+	disableMickerson = true
 	#Disable the Mishumaa Saba pet (default:false)
-	disableMishumaaSaba = false
+	disableMishumaaSaba = true
 	#Disable the Moon pet (default:false)
-	disableMoon = false
+	disableMoon = true
 	#Disable the Mooshroom pet (default:false)
 	disableMooshroom = false
 	#Disable the Nether Portal pet (default:false)
@@ -223,7 +223,7 @@
 	#Disable the Ocelot pet (default:false)
 	disableOcelot = false
 	#Disable the PacMan pet (default:false)
-	disablePacMan = false
+	disablePacMan = true
 	#Disable the Pig pet (default:false)
 	disablePig = false
 	#Disable the Pingot pet (default:false)
@@ -231,7 +231,7 @@
 	#Disable the Pixie pet (default:false)
 	disablePixie = false
 	#Disable the Politically Correct pet (default:false)
-	"disablePolitically Correct" = false
+	"disablePolitically Correct" = true
 	#Disable the Pufferfish pet (default:false)
 	disablePufferfish = false
 	#Disable the Purplicious Cow pet (default:false)
@@ -251,7 +251,7 @@
 	#Disable the Silverfish pet (default:false)
 	disableSilverfish = false
 	#Disable the Slime pet (default:false)
-	disableSlime = false
+	disableSlime = true
 	#Disable the Snow Golem pet (default:false)
 	disableSnowGolem = false
 	#Disable the Spider pet (default:false)
@@ -261,7 +261,7 @@
 	#Disable the Squid pet (default:false)
 	disableSquid = false
 	#Disable the Sun pet (default:false)
-	disableSun = false
+	disableSun = true
 	#Disable the Torch pet (default:false)
 	disableTorch = false
 	#Disable the Wither pet (default:false)
