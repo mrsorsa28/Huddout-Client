@@ -62,6 +62,9 @@
 	#The emerald value for an artifact [0-64, default: 24]
 	#Range: 0 ~ 64
 	artifactValue = 24
+	#Enable Friendly Fire on Pets 
+	#If you dislike (or outright hate) your pets and would like to kill them, enable this feature. [true / false]
+	enableFriendlyPetFire = false
 
 #Compatibility Configuration
 [compatibility_configuration]
