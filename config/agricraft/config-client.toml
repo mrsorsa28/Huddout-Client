@@ -250,10 +250,10 @@
 	"Enable Botania compat" = true
 	#
 	#Set to false to disable compatibility with Botany Pots (in case things break)
-	"Enable Botany Pots compat" = true
+	"Enable Botany Pots compat" = false
 	#
 	#Set to false to disable weeds on Botany Pots
-	"Enable Botany Pots weeds" = true
+	"Enable Botany Pots weeds" = false
 	#
 	#Set to false to disable compatibility with Create (in case things break)
 	"Enable Create compat" = true
