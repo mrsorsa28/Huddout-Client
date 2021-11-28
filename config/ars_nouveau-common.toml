@@ -14,25 +14,25 @@
 	spawnBook = true
 	#How often Carbuncles spawn
 	#Range: 0 ~ 100
-	carbuncleWeight = 5
+	carbuncleWeight = 2
 	#How often Sylphs spawn
 	#Range: 0 ~ 100
-	sylphWeight = 5
+	sylphWeight = 2
 	#How often Drygmys spawn
 	#Range: 0 ~ 100
-	drygmyWeight = 3
+	drygmyWeight = 1
 	#How much mana sylphs consume per generation
 	#Range: 0 ~ 10000
 	sylphManaCost = 250
 	#How often Wilden Guardians spawn
 	#Range: 0 ~ 200
-	wguardianWeight = 50
+	wguardianWeight = 25
 	#How often Wilden Stalkers spawn
 	#Range: 0 ~ 200
-	wstalkerWeight = 50
+	wstalkerWeight = 25
 	#How often Wilden Hunter spawn
 	#Range: 0 ~ 200
-	whunterWeight = 50
+	whunterWeight = 25
 	#Should the Wilden Hunter attack animals?
 	hunterHuntsAnimals = true
 	#Should the Wilden Stalker attack animals?
@@ -41,7 +41,7 @@
 	defenderHuntsAnimals = false
 	#Archwood forest spawn weight
 	#Range: > 0
-	archwoodForest = 3
+	archwoodForest = 1
 	#Crystallizer output item. Do not use a wrong ID!
 	crystallizer_output = "ars_nouveau:mana_gem"
 
