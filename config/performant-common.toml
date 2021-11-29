@@ -96,7 +96,7 @@ displayTooLargePackets = true
 
 ["General performance improvements settings"]
 	#Enable FPS improvements, default = true
-	betterFps = true
+	betterFps = false
 	#Reduces crafting lag by caching recipe lookups, helps a lot with autocrafting/crafting related lag. default = true
 	cacheRecipes = true
 	#Enable fast spawn radius check, this makes entity spawn mechanics lag less. default = true
