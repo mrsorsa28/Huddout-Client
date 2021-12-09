@@ -388,7 +388,7 @@
 		"Spawn Gorgon Chance" = 75
 		#Maximum gorgon health
 		#Range: 1.0 ~ 10000.0
-		"Gorgon Max Health" = 100.0
+		"Gorgon Max Health" = 500.0
 
 	[Mobs.Others]
 		#True if dread liches are allowed to spawn
